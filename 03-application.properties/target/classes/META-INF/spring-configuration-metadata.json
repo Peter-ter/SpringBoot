@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.web.Application",
+      "name": "test",
+      "sourceMethod": "public com.web.beans.User UserSettings() ",
+      "type": "com.web.beans.User"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.web.beans.User",
+      "name": "test.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.web.beans.User",
+      "name": "test.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
